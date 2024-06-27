@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Laws of Sharn.md",
+                "file": "NPCs/Darguun/Kech Volaar/Tuura Dhakaan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Laws of Sharn.md",
+                "file": "NPCs/Darguun/Kech Volaar/Tuura Dhakaan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Laws of Sharn.md",
+                "file": "NPCs/Darguun/Kech Volaar/Tuura Dhakaan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Laws of Sharn.md"
+                "file": "NPCs/Darguun/Kech Volaar/Tuura Dhakaan.md"
               }
             }
           }
@@ -148,8 +148,27 @@
   },
   "active": "7500a6354e9ac787",
   "lastOpenFiles": [
-    "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
+    "NPCs/Darguun/Kech Sharaat/Ruus Dhakaan.md",
+    "NPCs/Darguun/Kech Volaar/Tuura Dhakaan.md",
+    "NPCs/Darguun/Rhukaan Taash/Lhesh Haruuc Sharaatkor.md",
+    "NPCs/Darguun/Kech Volaar/Ekhaas.md",
+    "PCs/Glendrim/Glendra Tagarhd d'Medani.md",
+    "NPCs/Breland/Bortan ir'Wynarn.md",
+    "NPCs/Breland/Kor ir'Wynarn.md",
+    "NPCs/Breland/Boranel ir'Wynarn.md",
+    "NPCs/Houses/House Medani/Baron Trelib d'Medani.md",
+    "PCs/Glendrim/Felise Valorshall d'Medani.md",
+    "NPCs/Houses/House Boromar/Odafi Goldfern.md",
+    "NPCs/Houses/House Boromar/Castar.md",
+    "NPCs/Houses/House Boromar/Ilya Boromar.md",
+    "NPCs/Houses/House Boromar/Saidan Boromar.md",
+    "NPCs/Houses/House Deneith/Sadran d'Deneith.md",
+    "NPCs/Sharn/Guild of Starlight and Shadows/Arlo Jordan.md",
+    "NPCs/Sharn/Guild of Starlight and Shadows/Martha Starstone.md",
+    "NPCs/Sharn/Guild of Starlight and Shadows/Giuseppe ir’Fontanas.md",
+    "NPCs/Sharn/Guild of Starlight and Shadows/Vermin.md",
     "Handouts/Laws of Sharn.md",
+    "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
     "Handouts/Newspaper/Korranberg Chronicles",
     "Handouts/Newspaper/Sharn Inquisitive",
     "Handouts/Newspaper/Voice of Breland",
@@ -163,26 +182,7 @@
     "Locations/Breland/Sharn/Dura/Surtesh's Sanctum of Secrets.md",
     "Locations/Breland/Sharn/Dura/Bazaar.md",
     "Locations/Breland/Sharn/Dura",
-    "NPCs/PCs/Amber/Master Cobin.md",
-    "Locations/Breland/Ringbriar.md",
-    "Locations/Breland/Moonwatch.md",
-    "Locations/Darguun/Olkhaan.md",
-    "Locations/Darguun/Lyrenton.md",
-    "Locations/Darguun/Rhukaan Draal/The Scarlet Kitchen - Korakuur.md",
-    "Locations/Darguun/Rhukaan Draal.md",
-    "README.md",
-    "Locations/Darguun/Rhukaan Draal/Little appetit - Sar'Gantii.md",
     "Locations/Darguun/Rhukaan Draal",
-    "Locations/Darguun/Dar'Mor - The Gathering Stone.md",
-    "Locations/Darguun/Matshuc Zaal.md",
-    "Locations/Breland/Galethspyre.md",
-    "Locations/Darguun",
-    "Locations/Breland/Sharn.md",
-    "Locations/Breland/Wroat/Brown Dragon Inn.md",
-    "Locations/Breland/Wroat/Tower of Inquisition.md",
-    "Locations/Breland/Wroat.md",
-    "NPCs/Sharn/Sharn Watch/Vilroy Germaine.md",
-    "NPCs/Darguun/Skullreave/Rakari Groddosb.md",
-    "NPCs/Darguun/Skullreave/Krootad Groddosb.md"
+    "Locations/Darguun"
   ]
 }
