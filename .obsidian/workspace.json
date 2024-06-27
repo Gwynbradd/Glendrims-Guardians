@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "fcd2bab0ca2e955f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e09dd60496f0971",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7500a6354e9ac787",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a5787bb718aa442",
+    "type": "split",
+    "children": [
+      {
+        "id": "2180b2af154625b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db5597b68a3e8972",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39adc686bcdb1003",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5657938db520a186",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "677cb53846360cf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1712c92acaef596",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb9d9fbb3323311a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63bd9398966668ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e15ed45fad8bbe9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4772105cf4f18f1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7500a6354e9ac787",
+  "lastOpenFiles": [
+    "NPCs/PCs/Amber/Master Cobin.md",
+    "Locations/Breland/Ringbriar.md",
+    "Locations/Breland/Moonwatch.md",
+    "Locations/Darguun/Olkhaan.md",
+    "Locations/Darguun/Lyrenton.md",
+    "Locations/Darguun/Rhukaan Draal/The Scarlet Kitchen - Korakuur.md",
+    "Locations/Darguun/Rhukaan Draal.md",
+    "README.md",
+    "Locations/Darguun/Rhukaan Draal/Little appetit - Sar'Gantii.md",
+    "Locations/Darguun/Rhukaan Draal",
+    "Locations/Darguun/Dar'Mor - The Gathering Stone.md",
+    "Locations/Darguun/Matshuc Zaal.md",
+    "Locations/Breland/Galethspyre.md",
+    "Locations/Darguun",
+    "Locations/Breland/Sharn.md",
+    "Locations/Breland/Wroat/Brown Dragon Inn.md",
+    "Locations/Breland/Wroat/Tower of Inquisition.md",
+    "Locations/Breland/Wroat.md",
+    "Locations/Breland/Wroat",
+    "NPCs/Sharn/Sharn Watch/Vilroy Germaine.md",
+    "Locations/Breland/Sharn",
+    "Locations/Breland",
+    "NPCs/Darguun/Skullreave/Rakari Groddosb.md",
+    "NPCs/Darguun/Skullreave/Krootad Groddosb.md",
+    "NPCs/PCs/Beladuur/Veenon Zring.md",
+    "NPCs/Darguun/Rhukaan Taash/Tariic.md",
+    "NPCs/Darguun/Rhukaan Taash/Lhesh Haruuc.md",
+    "NPCs/Darguun/Kech Sharaat/Strezburt.md",
+    "NPCs/Darguun/Untitled.md",
+    "NPCs/PCs/Beladuur/Untitled.md",
+    "NPCs/Darguun/Skullreave",
+    "NPCs/PCs/Beladuur/Duulan Daashor Tusrykt.md",
+    "NPCs/Houses",
+    "NPCs/PCs",
+    "NPCs/Darguun/Kech Sharaat",
+    "NPCs/Darguun/Kech Volaar"
+  ]
+}

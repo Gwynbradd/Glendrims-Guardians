@@ -1,0 +1,2 @@
+Ringbriar is a thorp in western Breland, lying just south of Skyraker Forest and beside the Graymoon River.
+It has in recent months started producing very finely made glass. Also known for its apple orchards and charcoal.
