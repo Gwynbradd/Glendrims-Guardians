@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Newspaper/Korranberg Chronicles/Execution of Instigator.md",
+                "file": "NPCs/PCs/Beladuur/Veenon Zring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Newspaper/Korranberg Chronicles/Execution of Instigator.md",
+                "file": "NPCs/PCs/Beladuur/Veenon Zring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Newspaper/Korranberg Chronicles/Execution of Instigator.md",
+                "file": "NPCs/PCs/Beladuur/Veenon Zring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Newspaper/Korranberg Chronicles/Execution of Instigator.md"
+                "file": "NPCs/PCs/Beladuur/Veenon Zring.md"
               }
             }
           }
@@ -148,8 +148,16 @@
   },
   "active": "7500a6354e9ac787",
   "lastOpenFiles": [
-    "Handouts/Newspaper/Korranberg Chronicles/Breland secures eastern territories.md",
+    "NPCs/PCs/Beladuur/Duulan Daashor Tusrykt.md",
+    "NPCs/PCs/Amber/Master Cobin.md",
+    "NPCs/PCs/Amber/Tristan ir'Moros.md",
+    "NPCs/PCs/Beladuur/Veenon Zring.md",
+    "NPCs/PCs/Beladuur/Untitled.md",
+    "NPCs/PCs/Glendrim/Alsi Valorshall d'Medani.md",
+    "NPCs/PCs/Amber/Lucilla ir'Moros.md",
+    "NPCs/Breland/Boranel ir'Wynarn.md",
     "Handouts/Newspaper/Korranberg Chronicles/Execution of Instigator.md",
+    "Handouts/Newspaper/Korranberg Chronicles/Breland secures eastern territories.md",
     "Handouts/Newspaper/Korranberg Chronicles/Diplomatic Crisis imminent after unprovoked raid on Kennrun.md",
     "Handouts/Newspaper/Sharn Inquisitive/Who owns Sharn.md",
     "Handouts/Newspaper/Sharn Inquisitive/Watch for falling Drunks.md",
@@ -167,14 +175,6 @@
     "NPCs/Sharn/Sharn Watch/Robert the Clerk.md",
     "NPCs/Darguun/Rhukaan Taash/Tariic Sharaatkor.md",
     "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
-    "NPCs/Darguun/Kech Volaar/Tuura Dhakaan.md",
-    "NPCs/Darguun/Kech Sharaat/Ruus Dhakaan.md",
-    "NPCs/Darguun/Rhukaan Taash/Lhesh Haruuc Sharaatkor.md",
-    "NPCs/Darguun/Kech Volaar/Ekhaas.md",
-    "PCs/Glendrim/Glendra Tagarhd d'Medani.md",
-    "NPCs/Breland/Bortan ir'Wynarn.md",
-    "NPCs/Breland/Kor ir'Wynarn.md",
-    "NPCs/Breland/Boranel ir'Wynarn.md",
     "Handouts/Newspaper/Korranberg Chronicles",
     "Handouts/Newspaper/Sharn Inquisitive",
     "Handouts/Newspaper/Voice of Breland",

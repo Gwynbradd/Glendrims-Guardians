@@ -1,0 +1,2 @@
+Childhood friend of Beladuur. Got drafted into the scouts because of joining in on antics with her while she became apprentice to the Daashor Duulan. He was presumed missing when scounting into the Mournlands together with their other friend Aruget.
+After the Clansmuut at Rhukaan Draal he returned to Skullreave to open his own inn.

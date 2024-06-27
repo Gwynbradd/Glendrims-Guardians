@@ -1,0 +1,2 @@
+Lord of House ir'Moros, to whom Amber is or was a ward.
+Tristan is responsible for the ir'Moros arms business, though his temperament can sometimes put him at an disadvantage. Despite his ocassional outbursts, he is a sincere and heartfelt person, who does right by those he considers friends.

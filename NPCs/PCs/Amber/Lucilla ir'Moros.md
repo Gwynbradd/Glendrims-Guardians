@@ -1,0 +1,2 @@
+Lady of house ir'Moros, to whom Amber is or was acting as a ward.
+Lady Lucilla is responsible for connections of the house. Her demeanor follows etiquette but can be considered cold by folk of lower standing. Lucilla works hard to redeem the fall from grace of her house.
