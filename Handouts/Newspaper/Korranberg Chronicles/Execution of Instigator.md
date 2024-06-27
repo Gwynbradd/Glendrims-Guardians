@@ -1,0 +1,17 @@
+Korranberg Chronicle
+
+EXECUTION OF INSTIGATOR BEHIND KENNRUN RAID TO STEM FURTHER BLOODSHED
+
+In a significant victory for the King's Citadel and the realm of Breland, Commander Kor ir'Wynarn announced yesterday that they have received the prisoner Kratood Groddosb, the former leader of the infamous Skullreave clan. Groddosb was apprehended by Darguul forces and subsequently handed over to Brelish authorities as measures of reconciliation. The bloody raid on the border town of Kennrun, had been orchestrated by Groddosb almost a month ago, had sent shockwaves throughout Breland.
+
+The captured war criminal is set to face the ultimate punishment as a public execution by hanging has been scheduled for the 21st of Therendor in Wroat. The decision to execute Groddosb publicly underscores the severity of the crimes committed by the Skullreave clan and serves as a warning to other would-be offenders. It is expected that citizens from across Breland will gather to witness the spectacle and find solace in the justice being served.
+
+However, it is not all bloodshed and vengeance as Breland has been engaged in diplomatic relations with the leader of Darguun, lhesh Haruuc Sharaat'kor, to resolve this conflict peacefully. Breland's willingness to seek only modest reparations speaks to their desire for reconciliation, recognizing the harsh punishment already dealt to the leadership of clan Skullreave. Local sources by the Chronicle confirm that during the clansmuut, that took place in the capital of Darguun Rhukaan Taash on the 11th of Therendor, the son of Groddosb, Rakari, had been sentenced to death and executed briefly afterwards at the muut for leading the raid on Kennrun.
+
+Lhesh Haruuc Sharaat'kor had also confirmed that the remaining Groddosb family was seized and lost all control of clan Skullreave, reinforcing the commitment of Darguun to maintain peace and stability in the region. Their involvement in this process demonstrates a shared determination to address and rectify any threats to the sovereignty of Breland and its people, as well as upholding the Treaty of Thronehold.
+
+In a surprising turn of events, this announcement has blindsided previous warmongering factions within the Brelish Parliament. Those who had advocated for a more aggressive stance and sought to escalate the conflict have lost momentum in their campaign. The decisive actions taken by Darguun, coupled with the diplomatic efforts of Breland's leadership, have overshadowed their voices, leaving them in a state of uncertainty.
+
+Recent developmentd have highlighted the importance of diplomacy and measured responses in resolving conflicts. It seems that a majority of the Brelish population is in favor of a peaceful resolution, understanding the devastating consequences that further escalation could bring. As Parliament reconvenes, the dynamics within the political landscape of Breland are sure to shift, with those advocating for peace and reconciliation gaining newfound influence.
+
+As the day of the public execution approaches, tensions are high, and the eyes of the nation turn towards Wroat. The fate of Kratood Groddosb and the actions taken by Breland and Darguun will undoubtedly shape the future of this troubled relationship. The Chronicle will continue to follow this story closely and provide updates on the unfolding events.

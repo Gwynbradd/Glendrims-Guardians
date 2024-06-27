@@ -1,0 +1,11 @@
+Korranberg Chronicle
+
+BREELAND MAKES UNPRECIDENTED DEAL TO SECURE EASTERN BORDERLANDS
+
+Since the failed attack on Kennrun, Eastern Breland has seen an extended period of turmoil. As more and more among the Brelish nobility pick up the call for an escalation of the conflict with Darguun, bandits from Black Pit continue their raids on villages and towns while creatures from the Mournlands are causing terror in the border regions.
+
+In the wake of these increasing troubles, Bortan ir'Wynarn, the Royal Steward and heir to the throne, has sealed an unprecedented agreement on the second Wir of Therendor with the Riedran ambassador Melkeshtak, that will hand over strategically important lands in Eastern Breland to Riedran control. In return, the Unity of Riedra obliged to finance the construction of outposts and manning them with Deneith mercenaries to secure these vast lands. This is the first mayor diplomatic agreement helmed by Bortan in the king's stead, and leaves majority of the Brelish forces free to continue securing the borders with Droaam and Aundair. While this agreement was almost unanimously celebrated, there are some voices in the parliament concerned of giving away lands to foreign control and influence to the priest's Path of Inspiration.
+
+Lord Sadran d'Deneith of the Sharn enclave promised that the deployment of their Deneith mercenaries will bring back stability and safety to the loyal people of Breland that have persevered in these conflict-ridden lands. Their presence shall allow the region to return to its prosperous state as it was once known for before the Last War.
+
+While the impact of this agreement remains to be seen, the Darguun crisis rests on knife's edge as the forces favoring war in the Brelish parliament have increasingly gained momentum. Though King Boranel stressed his wish to seek a diplomatic solution, the silence from the Red Fortress of Lhesh Haruuc has been resolute. With reports of a gathering of clans in Rhukaan Taash on the 11th of Therendor, an official answer will be expected soon thereafter. If peace is to prevail, it can’t come soon enough.

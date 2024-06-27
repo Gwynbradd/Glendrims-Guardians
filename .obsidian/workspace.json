@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Darguun/Kech Volaar/Tuura Dhakaan.md",
+                "file": "Handouts/Newspaper/Korranberg Chronicles/Execution of Instigator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Darguun/Kech Volaar/Tuura Dhakaan.md",
+                "file": "Handouts/Newspaper/Korranberg Chronicles/Execution of Instigator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Darguun/Kech Volaar/Tuura Dhakaan.md",
+                "file": "Handouts/Newspaper/Korranberg Chronicles/Execution of Instigator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Darguun/Kech Volaar/Tuura Dhakaan.md"
+                "file": "Handouts/Newspaper/Korranberg Chronicles/Execution of Instigator.md"
               }
             }
           }
@@ -148,27 +148,33 @@
   },
   "active": "7500a6354e9ac787",
   "lastOpenFiles": [
-    "NPCs/Darguun/Kech Sharaat/Ruus Dhakaan.md",
+    "Handouts/Newspaper/Korranberg Chronicles/Breland secures eastern territories.md",
+    "Handouts/Newspaper/Korranberg Chronicles/Execution of Instigator.md",
+    "Handouts/Newspaper/Korranberg Chronicles/Diplomatic Crisis imminent after unprovoked raid on Kennrun.md",
+    "Handouts/Newspaper/Sharn Inquisitive/Who owns Sharn.md",
+    "Handouts/Newspaper/Sharn Inquisitive/Watch for falling Drunks.md",
+    "Handouts/Newspaper/Voice of Breland/Savages of Darguun raid peaceful Kennrun.md",
+    "Handouts/Newspaper/Voice of Breland/IS OUR INFRASTRUCTURE IN THE HANDS OF OUR ENEMIES.md",
+    "Handouts/Misc/The Heart of Breland.md",
+    "Handouts/Letters/Letter by Harash to GG.md",
+    "Handouts/Misc",
+    "Handouts/Letters/Letter by Darian d'Vadalis to the Glendrim Guardian's.md",
+    "Handouts/Letters/Letter by Castar to Glendrim's Guardian.md",
+    "Handouts/Letters/Letter from Daral to Glendrim.md",
+    "Handouts/Letters/Letter from Ringbriar.md",
+    "Handouts/Letters/Letter to Ira.md",
+    "Handouts/Letters/Boromar Invitation.md",
+    "NPCs/Sharn/Sharn Watch/Robert the Clerk.md",
+    "NPCs/Darguun/Rhukaan Taash/Tariic Sharaatkor.md",
+    "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
     "NPCs/Darguun/Kech Volaar/Tuura Dhakaan.md",
+    "NPCs/Darguun/Kech Sharaat/Ruus Dhakaan.md",
     "NPCs/Darguun/Rhukaan Taash/Lhesh Haruuc Sharaatkor.md",
     "NPCs/Darguun/Kech Volaar/Ekhaas.md",
     "PCs/Glendrim/Glendra Tagarhd d'Medani.md",
     "NPCs/Breland/Bortan ir'Wynarn.md",
     "NPCs/Breland/Kor ir'Wynarn.md",
     "NPCs/Breland/Boranel ir'Wynarn.md",
-    "NPCs/Houses/House Medani/Baron Trelib d'Medani.md",
-    "PCs/Glendrim/Felise Valorshall d'Medani.md",
-    "NPCs/Houses/House Boromar/Odafi Goldfern.md",
-    "NPCs/Houses/House Boromar/Castar.md",
-    "NPCs/Houses/House Boromar/Ilya Boromar.md",
-    "NPCs/Houses/House Boromar/Saidan Boromar.md",
-    "NPCs/Houses/House Deneith/Sadran d'Deneith.md",
-    "NPCs/Sharn/Guild of Starlight and Shadows/Arlo Jordan.md",
-    "NPCs/Sharn/Guild of Starlight and Shadows/Martha Starstone.md",
-    "NPCs/Sharn/Guild of Starlight and Shadows/Giuseppe ir’Fontanas.md",
-    "NPCs/Sharn/Guild of Starlight and Shadows/Vermin.md",
-    "Handouts/Laws of Sharn.md",
-    "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
     "Handouts/Newspaper/Korranberg Chronicles",
     "Handouts/Newspaper/Sharn Inquisitive",
     "Handouts/Newspaper/Voice of Breland",
@@ -176,13 +182,7 @@
     "Handouts/Newspaper",
     "Handouts/Letters",
     "Handouts",
-    "Locations/Breland/Sharn/Dura/Morragan's.md",
-    "Locations/Breland/Sharn/Dura/Griffon's Roost.md",
-    "Locations/Breland/Sharn/Dura/Pegasus Spire.md",
-    "Locations/Breland/Sharn/Dura/Surtesh's Sanctum of Secrets.md",
-    "Locations/Breland/Sharn/Dura/Bazaar.md",
     "Locations/Breland/Sharn/Dura",
-    "Locations/Darguun/Rhukaan Draal",
-    "Locations/Darguun"
+    "Locations/Darguun/Rhukaan Draal"
   ]
 }
