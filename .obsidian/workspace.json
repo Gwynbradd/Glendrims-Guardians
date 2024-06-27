@@ -11,8 +11,12 @@
             "id": "7500a6354e9ac787",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Breland/Sharn/Dura/Tooth and Nail.md"
+              }
             }
           }
         ]
@@ -140,6 +148,13 @@
   },
   "active": "7500a6354e9ac787",
   "lastOpenFiles": [
+    "Locations/Breland/Sharn/Dura/Morragan's.md",
+    "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
+    "Locations/Breland/Sharn/Dura/Griffon's Roost.md",
+    "Locations/Breland/Sharn/Dura/Pegasus Spire.md",
+    "Locations/Breland/Sharn/Dura/Surtesh's Sanctum of Secrets.md",
+    "Locations/Breland/Sharn/Dura/Bazaar.md",
+    "Locations/Breland/Sharn/Dura",
     "NPCs/PCs/Amber/Master Cobin.md",
     "Locations/Breland/Ringbriar.md",
     "Locations/Breland/Moonwatch.md",
@@ -165,16 +180,9 @@
     "NPCs/Darguun/Skullreave/Rakari Groddosb.md",
     "NPCs/Darguun/Skullreave/Krootad Groddosb.md",
     "NPCs/PCs/Beladuur/Veenon Zring.md",
-    "NPCs/Darguun/Rhukaan Taash/Tariic.md",
-    "NPCs/Darguun/Rhukaan Taash/Lhesh Haruuc.md",
-    "NPCs/Darguun/Kech Sharaat/Strezburt.md",
-    "NPCs/Darguun/Untitled.md",
-    "NPCs/PCs/Beladuur/Untitled.md",
     "NPCs/Darguun/Skullreave",
-    "NPCs/PCs/Beladuur/Duulan Daashor Tusrykt.md",
     "NPCs/Houses",
     "NPCs/PCs",
-    "NPCs/Darguun/Kech Sharaat",
-    "NPCs/Darguun/Kech Volaar"
+    "NPCs/Darguun/Kech Sharaat"
   ]
 }

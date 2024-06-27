@@ -1,0 +1,5 @@
+This manor lies at the very top of a octagon shaped spire crafted out of sandstone ornamented with various animals shapes, standing lonely against the horizon as the cities suddenly drops against the stony shores of the Dagger river.
+A single skybridge leads towards the manor's front yard which is surrounded by a small stone fence. On the right side of the yard, a griffon stands proudly in the middle of a water fountain, wings fully extended and water spitting out of its roaring maw.
+On the left side of the yard, a stonen landing platform rises above the walls on its corner flies a flag of a golden griffon sitting ontop of a cliff in front a blue field. Behind the platform, is a small wooden yarn.
+At the front doors of the manor, two ornamental sandstone pillars rise to hold the balcony above.
+A gold engraved sundial stands in the middle of the yard next to several flower beds that are in bloom despite the current season.

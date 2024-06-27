@@ -1,0 +1,1 @@
+egasus Spire is a tower in the Highwater district of the Upper Dura ward in Sharn, Breland, and an important enclave of House Vadalis.[

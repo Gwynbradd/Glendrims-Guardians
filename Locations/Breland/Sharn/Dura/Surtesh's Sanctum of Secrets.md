@@ -1,0 +1,1 @@
+The flamboyant Changeling Surtesh sells all kinds of potions, magical garment or artifact although their origin is oftentimes dubious. His store is located within the Bazaar of Dura.
