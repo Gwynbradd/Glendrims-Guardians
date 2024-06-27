@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
+                "file": "Handouts/Laws of Sharn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
+                "file": "Handouts/Laws of Sharn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
+                "file": "Handouts/Laws of Sharn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Breland/Sharn/Dura/Tooth and Nail.md"
+                "file": "Handouts/Laws of Sharn.md"
               }
             }
           }
@@ -148,8 +148,16 @@
   },
   "active": "7500a6354e9ac787",
   "lastOpenFiles": [
-    "Locations/Breland/Sharn/Dura/Morragan's.md",
     "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
+    "Handouts/Laws of Sharn.md",
+    "Handouts/Newspaper/Korranberg Chronicles",
+    "Handouts/Newspaper/Sharn Inquisitive",
+    "Handouts/Newspaper/Voice of Breland",
+    "Handouts/Laws of Sharn",
+    "Handouts/Newspaper",
+    "Handouts/Letters",
+    "Handouts",
+    "Locations/Breland/Sharn/Dura/Morragan's.md",
     "Locations/Breland/Sharn/Dura/Griffon's Roost.md",
     "Locations/Breland/Sharn/Dura/Pegasus Spire.md",
     "Locations/Breland/Sharn/Dura/Surtesh's Sanctum of Secrets.md",
@@ -173,16 +181,8 @@
     "Locations/Breland/Wroat/Brown Dragon Inn.md",
     "Locations/Breland/Wroat/Tower of Inquisition.md",
     "Locations/Breland/Wroat.md",
-    "Locations/Breland/Wroat",
     "NPCs/Sharn/Sharn Watch/Vilroy Germaine.md",
-    "Locations/Breland/Sharn",
-    "Locations/Breland",
     "NPCs/Darguun/Skullreave/Rakari Groddosb.md",
-    "NPCs/Darguun/Skullreave/Krootad Groddosb.md",
-    "NPCs/PCs/Beladuur/Veenon Zring.md",
-    "NPCs/Darguun/Skullreave",
-    "NPCs/Houses",
-    "NPCs/PCs",
-    "NPCs/Darguun/Kech Sharaat"
+    "NPCs/Darguun/Skullreave/Krootad Groddosb.md"
   ]
 }
