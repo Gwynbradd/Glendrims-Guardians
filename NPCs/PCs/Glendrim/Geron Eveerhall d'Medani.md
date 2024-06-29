@@ -1,0 +1,1 @@
+Childhood friend of Glendrim. Dragonmarked scion, who used to be shy and silent. He fondly the remembers the good old days. Nowadays part of the investigating branch of house Medani in Wroat.

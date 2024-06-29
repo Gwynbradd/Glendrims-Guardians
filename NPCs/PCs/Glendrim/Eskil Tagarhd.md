@@ -1,0 +1,1 @@
+Childhood friend of Glendrim who would try to outdo his pranks. He had settled down after Glendrim disappeared and had passed away a few years after Glendra was born.

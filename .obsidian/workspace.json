@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/PCs/Beladuur/Veenon Zring.md",
+                "file": "NPCs/PCs/Glendrim/Geron Eveerhall d'Medani.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/PCs/Beladuur/Veenon Zring.md",
+                "file": "NPCs/PCs/Glendrim/Geron Eveerhall d'Medani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/PCs/Beladuur/Veenon Zring.md",
+                "file": "NPCs/PCs/Glendrim/Geron Eveerhall d'Medani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/PCs/Beladuur/Veenon Zring.md"
+                "file": "NPCs/PCs/Glendrim/Geron Eveerhall d'Medani.md"
               }
             }
           }
@@ -148,12 +148,22 @@
   },
   "active": "7500a6354e9ac787",
   "lastOpenFiles": [
+    "NPCs/PCs/Glendrim/Eskil Tagarhd.md",
+    "NPCs/PCs/Glendrim/Felise Valorshall d'Medani.md",
+    "NPCs/PCs/Glendrim/Alsi Valorshall d'Medani.md",
+    "NPCs/Sharn/Sharn Watch/Robert the Clerk.md",
+    "NPCs/Houses/House Medani/Alsi Valorshall d'Medani.md",
+    "NPCs/Houses/House Medani/Fellise Valorshall d'Medani.md",
+    "NPCs/PCs/Glendrim/Geron Eveerhall d'Medani.md",
+    "NPCs/PCs/Glendrim/Glendra Tagarhd d'Medani.md",
+    "NPCs/PCs/Glendrim/Elise Tagarhd d'Medani.md",
+    "NPCs/PCs/Glendrim/Overyn Garhadid.md",
+    "NPCs/PCs/Beladuur/Rakari Groddosb.md",
+    "NPCs/PCs/Beladuur/Krootad Groddosb.md",
+    "NPCs/PCs/Beladuur/Veenon Zring.md",
     "NPCs/PCs/Beladuur/Duulan Daashor Tusrykt.md",
     "NPCs/PCs/Amber/Master Cobin.md",
     "NPCs/PCs/Amber/Tristan ir'Moros.md",
-    "NPCs/PCs/Beladuur/Veenon Zring.md",
-    "NPCs/PCs/Beladuur/Untitled.md",
-    "NPCs/PCs/Glendrim/Alsi Valorshall d'Medani.md",
     "NPCs/PCs/Amber/Lucilla ir'Moros.md",
     "NPCs/Breland/Boranel ir'Wynarn.md",
     "Handouts/Newspaper/Korranberg Chronicles/Execution of Instigator.md",
@@ -164,17 +174,7 @@
     "Handouts/Newspaper/Voice of Breland/Savages of Darguun raid peaceful Kennrun.md",
     "Handouts/Newspaper/Voice of Breland/IS OUR INFRASTRUCTURE IN THE HANDS OF OUR ENEMIES.md",
     "Handouts/Misc/The Heart of Breland.md",
-    "Handouts/Letters/Letter by Harash to GG.md",
     "Handouts/Misc",
-    "Handouts/Letters/Letter by Darian d'Vadalis to the Glendrim Guardian's.md",
-    "Handouts/Letters/Letter by Castar to Glendrim's Guardian.md",
-    "Handouts/Letters/Letter from Daral to Glendrim.md",
-    "Handouts/Letters/Letter from Ringbriar.md",
-    "Handouts/Letters/Letter to Ira.md",
-    "Handouts/Letters/Boromar Invitation.md",
-    "NPCs/Sharn/Sharn Watch/Robert the Clerk.md",
-    "NPCs/Darguun/Rhukaan Taash/Tariic Sharaatkor.md",
-    "Locations/Breland/Sharn/Dura/Tooth and Nail.md",
     "Handouts/Newspaper/Korranberg Chronicles",
     "Handouts/Newspaper/Sharn Inquisitive",
     "Handouts/Newspaper/Voice of Breland",

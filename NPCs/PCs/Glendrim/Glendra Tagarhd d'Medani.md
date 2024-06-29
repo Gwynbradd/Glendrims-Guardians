@@ -1,0 +1,1 @@
+This mischievous little kid has heard too many stories of Glendrim and Eskil for her own good. The Sovereigns only know what she may get up to in the future.

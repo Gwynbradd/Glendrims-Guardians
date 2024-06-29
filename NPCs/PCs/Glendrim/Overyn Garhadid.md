@@ -1,0 +1,2 @@
+Old mentor of Glendrim when he was a teenager and worked at House Medani, some 37 years ago, nowadays retired.
+Overyn has a soft spot for all children and that included Glendrim with his many shenanigans, contrary to many other supervisors of House Medani. He has taken up a hobby of baking through his retirement.
