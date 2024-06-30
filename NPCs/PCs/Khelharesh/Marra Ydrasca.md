@@ -1,0 +1,2 @@
+This boastful Talenta warrior is spending most of her days in the halls of the Clifftop Adventurer's Guild, drinking away at the small fortune she made in her days as Privateer in the Lharazareen Principalities and mercenary during the Last War.
+Quickly took Khelharesh under her wing and told him all kinds of stories of the exploits she used to get up to.

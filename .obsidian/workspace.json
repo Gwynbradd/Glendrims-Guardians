@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Darguun/Skullreave/Rakari Groddosb.md",
+                "file": "NPCs/PCs/Khelharesh/Marra Ydrasca.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Darguun/Skullreave/Rakari Groddosb.md",
+                "file": "NPCs/PCs/Khelharesh/Marra Ydrasca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Darguun/Skullreave/Rakari Groddosb.md",
+                "file": "NPCs/PCs/Khelharesh/Marra Ydrasca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Darguun/Skullreave/Rakari Groddosb.md"
+                "file": "NPCs/PCs/Khelharesh/Marra Ydrasca.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "7500a6354e9ac787",
   "lastOpenFiles": [
+    "NPCs/PCs/Khelharesh/Nevitash.md",
+    "NPCs/PCs/Khelharesh/Torashtar.md",
+    "NPCs/PCs/Khelharesh/Marra Ydrasca.md",
+    "NPCs/Darguun/Skullreave/Rakari Groddosb.md",
     "NPCs/Houses and Orgs/Daask/Keshta.md",
     "NPCs/Houses and Orgs/Daask/Ash.md",
     "NPCs/Houses and Orgs/Daask/Harash.md",
@@ -175,10 +179,6 @@
     "Locations/Darguun/Olkhaan.md",
     "Locations/Breland/Sharn/Tavick's Landing",
     "Locations/Darguun/Lyrenton.md",
-    "Locations/Darguun/Dar'Mor - The Gathering Stone.md",
-    "Locations/Darguun/Matshuc Zaal.md",
-    "Locations/Darguun/Rhukaan Draal.md",
-    "Locations/Darguun/Rhukaan Draal.md",
     "NPCs/Sharn/Shifters of Stoneyard",
     "NPCs/Houses and Orgs/House Tharashk",
     "NPCs/Houses and Orgs/Miscellaneous",

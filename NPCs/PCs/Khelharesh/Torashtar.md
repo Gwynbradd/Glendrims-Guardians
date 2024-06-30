@@ -1,0 +1,1 @@
+Jovile, for a Kalasthar, Torashtar manages to blend art and tradition with actual applications that he picked up as a solider during the Aundair campaign by Breland. He oversees the physical training and defense of his little community.

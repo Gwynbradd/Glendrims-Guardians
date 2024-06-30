@@ -1,0 +1,1 @@
+This austere monk is the spiritual leader of the Kalashtar community in overlook. He oversees teaching the community about the Path of Light and self-enlightenment.
