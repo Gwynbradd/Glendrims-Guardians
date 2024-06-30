@@ -1,0 +1,3 @@
+The Lhesh is the ruler and high warlord of the Goblin nation of Haruuc and clan Rhukaan Taash (Razor Crown in Goblin).
+Originally a mercenary employed by House Deneith during the Last War, he managed to lead a rebellion uniting enough Goblin tribes to carve out a new Goblin nation of Darguun.
+Haruuc is known as a cunning leader that treats his enemies ruthlessly but works towards the betterment of the Goblins in this new nation.

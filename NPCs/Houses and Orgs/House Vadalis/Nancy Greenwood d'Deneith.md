@@ -1,0 +1,2 @@
+Head of House Vadalis in Sharn. She resides in the Pegasus Spire in Highwater, Upper Dura.
+She originally gave the party the hint that her brother Darian could be involved with the monsters in Western Breland after some magical convincing by Glendrim.

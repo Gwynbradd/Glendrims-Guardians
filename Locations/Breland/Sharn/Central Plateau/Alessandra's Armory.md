@@ -1,0 +1,1 @@
+Alessandra's Amazing Armory for Aspiring Adventurers offers almost anything new or experienced might desire. The middle aged Karrnathi Alessandra Schattenwacht enjoys engaging in conversation with her would-be customers.

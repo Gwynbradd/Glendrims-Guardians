@@ -1,0 +1,1 @@
+Youngest son of the family and infamous within upper social circles for getting himself into trouble. Usually this leads to no real repercussions given his family's standing and influence.

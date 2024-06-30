@@ -1,0 +1,1 @@
+Head priestess to the temple of the Dark Six in Sharn and follower of the Shadow.

@@ -1,0 +1,1 @@
+The boastful captain of the air-elemental powered Kraken's Pride.

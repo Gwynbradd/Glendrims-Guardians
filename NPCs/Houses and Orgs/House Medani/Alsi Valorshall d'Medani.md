@@ -1,0 +1,3 @@
+Glendrim's childhood rival could not have a more different background. This diligent and obedient but also stubborn girl came directly from the head branch of House Medani and thus grew up with huge expectations upon her. Small wonder she clashed so much with the rebellious and almost belligerent Glendrim.
+Alsi's career certainly has been held back by her obsession to bring back Glendrim upon his disappearance, though she can still boast her successful track record as a field agent of the Basilisk's Gaze.
+Alsi is in her 50s though as a half-elf only has the first offset of wrinkles around eyes and mouth.

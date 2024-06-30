@@ -1,0 +1,1 @@
+Owner of the Voice of Breland. Infamous for his xenophobic views.

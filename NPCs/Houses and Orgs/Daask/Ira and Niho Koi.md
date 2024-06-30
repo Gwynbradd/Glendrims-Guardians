@@ -1,0 +1,1 @@
+Previous leaders of the Daask cell in Wroat. Were involved in a scheme to retrieve manuscripts from Old Sharn. The group put an end to their operations and lives when they tried to intervene personally.

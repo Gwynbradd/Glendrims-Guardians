@@ -1,0 +1,1 @@
+This Gnoll is known to lead a pact of expert assassins.

@@ -1,0 +1,1 @@
+One of Glendrim's previous supervisors and high-standing member of House Medani. Felise is Alsi's aunt though she does not believe in playing favoritism, and is often experienced to be strict by her students.

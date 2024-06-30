@@ -1,0 +1,2 @@
+Previous head of clan Skullreave.
+Was involved in rebellious acts with the Kech Sharaat to overthrow Lhesh Haruuc and found a new Goblin empire. He was sent as a prisoner to Breland as a peace offering and shortly afterwards publicly executed.

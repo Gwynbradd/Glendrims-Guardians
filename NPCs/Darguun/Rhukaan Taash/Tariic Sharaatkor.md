@@ -1,0 +1,1 @@
+The nephew of Haruuc Sharaatkor has spent a lot of time as of late in the retinue of the Lhesh. He is a young and charismatic hobgoblin.

@@ -1,5 +1,5 @@
-Once prosperous, Lyrenton now lies in ruins. The Ghaal'dar tribes think it to be cursed and a place best avoided.
+Olkhaan used to be a proud Goblinoid city that was the site of a massive Dhakaani and Gatekeeper invasion into Khyber to seal the Daelkyr Dyrrn. Though the mission succeeded in driving back the forces of the Daelkyr and binding Dyrrn himself deep within Khyber, Dyrrn had unleashed a madness upon the invading forces. When unhinged goblins returned to the surface, a group of dur'kalaa, dashor, and gatekeepers, who had stayed in reserve in case of defeat, saw themselves forced to seal the entrance with the Duur'kur (key of sorrows) still locking hundreds of their own kin in the twisting tunnels of Khyber including their precious artifacts.
 
-The ruins somehow attract monstrosities from out of the Mournland. Moreover, those who enter and breathe the air risk developing a strange wasting disease within the day.
+The city slowly delipidated as the citizens succumbed to the Kapaa’vola. However, human settlers had rebuilt a town upon the Dhakaani ruins, only for the Cyran town to change hands when Lhesh Haruuc claimed Darguun for the Goblinoids.
 
-There are reports of terrible wailing coming from the ruins. At night, their echoes carry over the plains for miles.
+The town has been on the decline ever since the mourning due to its proximity to the Mournlands and lack of fortifications. It serves more as outpost against the horrors escaping the Mournlands than a proper settlement by now.

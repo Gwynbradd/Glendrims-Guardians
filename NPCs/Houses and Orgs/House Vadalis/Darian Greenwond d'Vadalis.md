@@ -1,0 +1,3 @@
+Reclusive high-standing member of House Vadalis. Used to reside in his estate in the Dragonwood Forest.
+The group stopped him from creating terrible monsters and releasing them into western Breland in the hopes of stopping a Droamite invasion. The Guardians figured out the Quori influence and aided Darian in Sharn to overcome his nightmares by aid of the Kalashtar community in Overlook.
+Gifted the group his old Sharn residence, the Griffon's Roost in thanks.

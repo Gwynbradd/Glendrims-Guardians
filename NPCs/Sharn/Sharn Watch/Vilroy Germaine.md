@@ -1,0 +1,1 @@
+This tough veteran of the last war is now working as a sergeant of the Sharn Watch, though she prefers sending out others to do the dirty work whenever possible.

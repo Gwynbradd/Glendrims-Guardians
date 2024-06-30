@@ -1,0 +1,1 @@
+This male Medusa is the  right hand to the incognito leader of Daask in Sharn.

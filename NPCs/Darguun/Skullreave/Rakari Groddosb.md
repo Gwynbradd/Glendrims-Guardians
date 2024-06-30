@@ -1,0 +1,1 @@
+Beladuur's childhood bully and youngest son of Krootad directly oversaw the attack on Kennrun as well as raiding homesteads new Rhukaan Draal to help overthrow Lhesh Haruuc. He was executed in the Red Keep for this treason at the end of the Clansmuut.

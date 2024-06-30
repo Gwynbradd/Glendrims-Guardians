@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/PCs/Glendrim/Geron Eveerhall d'Medani.md",
+                "file": "NPCs/Darguun/Skullreave/Rakari Groddosb.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/PCs/Glendrim/Geron Eveerhall d'Medani.md",
+                "file": "NPCs/Darguun/Skullreave/Rakari Groddosb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/PCs/Glendrim/Geron Eveerhall d'Medani.md",
+                "file": "NPCs/Darguun/Skullreave/Rakari Groddosb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/PCs/Glendrim/Geron Eveerhall d'Medani.md"
+                "file": "NPCs/Darguun/Skullreave/Rakari Groddosb.md"
               }
             }
           }
@@ -148,41 +148,41 @@
   },
   "active": "7500a6354e9ac787",
   "lastOpenFiles": [
-    "NPCs/PCs/Glendrim/Eskil Tagarhd.md",
-    "NPCs/PCs/Glendrim/Felise Valorshall d'Medani.md",
-    "NPCs/PCs/Glendrim/Alsi Valorshall d'Medani.md",
+    "NPCs/Houses and Orgs/Daask/Keshta.md",
+    "NPCs/Houses and Orgs/Daask/Ash.md",
+    "NPCs/Houses and Orgs/Daask/Harash.md",
+    "NPCs/Houses and Orgs/Daask/Ira and Niho Koi.md",
+    "NPCs/Houses and Orgs/Daask/Ugoki.md",
+    "NPCs/Houses and Orgs/Daask/C.md",
+    "NPCs/Houses and Orgs/Untitled.md",
+    "NPCs/Houses and Orgs/Daask",
+    "NPCs/Houses and Orgs/House Tarkanan.md",
+    "NPCs/Houses and Orgs/The Tyrants.md",
+    "NPCs/Sharn/Sharn Watch/Vilroy Germaine.md",
     "NPCs/Sharn/Sharn Watch/Robert the Clerk.md",
-    "NPCs/Houses/House Medani/Alsi Valorshall d'Medani.md",
-    "NPCs/Houses/House Medani/Fellise Valorshall d'Medani.md",
-    "NPCs/PCs/Glendrim/Geron Eveerhall d'Medani.md",
-    "NPCs/PCs/Glendrim/Glendra Tagarhd d'Medani.md",
-    "NPCs/PCs/Glendrim/Elise Tagarhd d'Medani.md",
-    "NPCs/PCs/Glendrim/Overyn Garhadid.md",
-    "NPCs/PCs/Beladuur/Rakari Groddosb.md",
-    "NPCs/PCs/Beladuur/Krootad Groddosb.md",
-    "NPCs/PCs/Beladuur/Veenon Zring.md",
-    "NPCs/PCs/Beladuur/Duulan Daashor Tusrykt.md",
-    "NPCs/PCs/Amber/Master Cobin.md",
-    "NPCs/PCs/Amber/Tristan ir'Moros.md",
-    "NPCs/PCs/Amber/Lucilla ir'Moros.md",
-    "NPCs/Breland/Boranel ir'Wynarn.md",
-    "Handouts/Newspaper/Korranberg Chronicles/Execution of Instigator.md",
-    "Handouts/Newspaper/Korranberg Chronicles/Breland secures eastern territories.md",
-    "Handouts/Newspaper/Korranberg Chronicles/Diplomatic Crisis imminent after unprovoked raid on Kennrun.md",
-    "Handouts/Newspaper/Sharn Inquisitive/Who owns Sharn.md",
-    "Handouts/Newspaper/Sharn Inquisitive/Watch for falling Drunks.md",
-    "Handouts/Newspaper/Voice of Breland/Savages of Darguun raid peaceful Kennrun.md",
-    "Handouts/Newspaper/Voice of Breland/IS OUR INFRASTRUCTURE IN THE HANDS OF OUR ENEMIES.md",
-    "Handouts/Misc/The Heart of Breland.md",
-    "Handouts/Misc",
-    "Handouts/Newspaper/Korranberg Chronicles",
-    "Handouts/Newspaper/Sharn Inquisitive",
-    "Handouts/Newspaper/Voice of Breland",
-    "Handouts/Laws of Sharn",
-    "Handouts/Newspaper",
-    "Handouts/Letters",
-    "Handouts",
-    "Locations/Breland/Sharn/Dura",
-    "Locations/Darguun/Rhukaan Draal"
+    "Locations/Breland/Sharn/The Cogs/The Wounded Dragon.md",
+    "Locations/Qbarra",
+    "Locations/Breland/Sharn/The Cogs/Temple of the Dark Six.md",
+    "Locations/Breland/Sharn/The Cogs/Shamukaar.md",
+    "Locations/Breland/Sharn/Central Plateau/Dragon's Hoard.md",
+    "Locations/Breland/Sharn/The Cogs",
+    "Locations/Breland/Sharn/Tavick's Landing/Unicorn Estate.md",
+    "Locations/Breland/Sharn/Central Plateau/Alessandra's Armory.md",
+    "Locations/Breland/Wroat/Tower of Inquisition.md",
+    "Locations/Breland/Sharn/Central Plateau",
+    "Locations/Breland/Sharn/Tavick's Landing/Sundry's Shop.md",
+    "Locations/Breland/Wroat/Brown Dragon Inn.md",
+    "Locations/Darguun/Olkhaan.md",
+    "Locations/Breland/Sharn/Tavick's Landing",
+    "Locations/Darguun/Lyrenton.md",
+    "Locations/Darguun/Dar'Mor - The Gathering Stone.md",
+    "Locations/Darguun/Matshuc Zaal.md",
+    "Locations/Darguun/Rhukaan Draal.md",
+    "Locations/Darguun/Rhukaan Draal.md",
+    "NPCs/Sharn/Shifters of Stoneyard",
+    "NPCs/Houses and Orgs/House Tharashk",
+    "NPCs/Houses and Orgs/Miscellaneous",
+    "NPCs/Houses and Orgs/House ir'Tain",
+    "NPCs/Houses and Orgs/House Orien"
   ]
 }

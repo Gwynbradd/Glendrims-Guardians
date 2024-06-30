@@ -1,1 +1,1 @@
-Diligent clerk of the Daggermark garrison that is bewildered by all the strange antics the crew is getting up to.
+Diligent and seemingly endlessly annoyed clerk of the Daggermark garrison that is bewildered by all the strange antics the crew is getting up to.

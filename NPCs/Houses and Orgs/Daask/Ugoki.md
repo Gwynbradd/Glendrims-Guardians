@@ -1,0 +1,1 @@
+The group encountered this troll in the sewers below Khyber's Gate. He had escaped Daask and is instead spending his days roaming for food within the sewers. Who knows what he has gotten up to since he helped the group take out Ira and Niho Koi.
