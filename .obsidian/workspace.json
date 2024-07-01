@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/PCs/Khelharesh/Marra Ydrasca.md",
+                "file": "NPCs/Houses and Orgs/House ir'Tain/Daral ir'Tain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/PCs/Khelharesh/Marra Ydrasca.md",
+                "file": "NPCs/Houses and Orgs/House ir'Tain/Daral ir'Tain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/PCs/Khelharesh/Marra Ydrasca.md",
+                "file": "NPCs/Houses and Orgs/House ir'Tain/Daral ir'Tain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/PCs/Khelharesh/Marra Ydrasca.md"
+                "file": "NPCs/Houses and Orgs/House ir'Tain/Daral ir'Tain.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "7500a6354e9ac787",
   "lastOpenFiles": [
+    "NPCs/PCs/Khelharesh/Marra Ydrasca.md",
     "NPCs/PCs/Khelharesh/Nevitash.md",
     "NPCs/PCs/Khelharesh/Torashtar.md",
-    "NPCs/PCs/Khelharesh/Marra Ydrasca.md",
     "NPCs/Darguun/Skullreave/Rakari Groddosb.md",
     "NPCs/Houses and Orgs/Daask/Keshta.md",
     "NPCs/Houses and Orgs/Daask/Ash.md",
