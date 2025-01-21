@@ -1,0 +1,1 @@
+Cobin asked Amber to deliver a letter to his old friend Maia-Zak, who is supposedly in Newthrone.

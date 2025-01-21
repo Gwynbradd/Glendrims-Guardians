@@ -1,0 +1,1 @@
+The dwarven mage Modiggian and the Korvaran Keira are specialized in analyzing the Draconic prophecy, though it results in a less than stellar reputation at court as it sees little use due to most humanoids relatively short life-span.

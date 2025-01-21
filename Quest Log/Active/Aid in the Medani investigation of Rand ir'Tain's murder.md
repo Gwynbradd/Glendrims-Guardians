@@ -1,0 +1,1 @@
+Alsi has asked Glendrim to aid her in the mysterious murder of Rand ir'Tain.

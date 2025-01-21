@@ -1,0 +1,1 @@
+Handled the main correspondence of the embassy, including the Morgrave university. Died during the Crimson Riots in the embassy.

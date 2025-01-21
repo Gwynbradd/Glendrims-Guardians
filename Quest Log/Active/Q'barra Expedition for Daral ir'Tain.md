@@ -1,0 +1,2 @@
+The party is tasked by House Deneith to accompany Daral ir'Tain to Q'barra and organize an exciting expedition for him while ensuring his safety.
+Pay has yet to be negotiated, previously discussed 1,000 gp per member.

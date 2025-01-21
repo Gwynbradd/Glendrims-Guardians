@@ -1,0 +1,1 @@
+First port where the expidition of Duke Ves ir'Kesslan first set foot on Q'Bbarra and encountered the lizardfolk, commonly referred to as scales by the locals, for the first time. It is named after the river Adder.

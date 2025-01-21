@@ -1,0 +1,1 @@
+House ir'Moros has a standing offer of modelling and advertisement work in return for equipment and publicity.

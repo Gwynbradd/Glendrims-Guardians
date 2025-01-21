@@ -1,0 +1,1 @@
+The capital of Valenar is an old elven fortress dating back to the original invasion by the Tairnadal against the Dhakaani empire

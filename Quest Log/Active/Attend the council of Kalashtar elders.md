@@ -1,0 +1,1 @@
+Khelharesh has been asked to attend council of elders to determine the possible councilor to King Boranel ir'Wynarn.

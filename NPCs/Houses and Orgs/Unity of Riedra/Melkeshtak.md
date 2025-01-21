@@ -1,0 +1,1 @@
+Chief Ambassador. Died during the Crimson Riots in the embassy.

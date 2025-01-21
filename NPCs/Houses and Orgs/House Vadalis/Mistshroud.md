@@ -1,0 +1,2 @@
+Mistshroud is a juvenile Greenheart Fangred, who are inhabitating the Eldeen Reaches.
+The animal has a beautiful dark plume with a dark sprinkled white neck together with fur showing a spotted pattern, resulting in a striking combination of black, deep brown, and gold tones.
