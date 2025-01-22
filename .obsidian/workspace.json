@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quest Log/Active/Protect Mistshroud and document her development.md",
+                "file": "Quest Log/Active/Redeeming a slaver.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Redeeming a slaver"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quest Log/Active/Protect Mistshroud and document her development.md",
+                "file": "Quest Log/Active/Redeeming a slaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Redeeming a slaver"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quest Log/Active/Protect Mistshroud and document her development.md",
+                "file": "Quest Log/Active/Redeeming a slaver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Redeeming a slaver"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quest Log/Active/Protect Mistshroud and document her development.md"
-              }
+                "file": "Quest Log/Active/Redeeming a slaver.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Redeeming a slaver"
             }
           }
         ]
@@ -146,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7500a6354e9ac787",
+  "active": "db5597b68a3e8972",
   "lastOpenFiles": [
+    "Quest Log/Active/Protect Mistshroud and document her development.md",
+    "Quest Log/Active/Redeeming a slaver.md",
     "NPCs/Houses and Orgs/Unity of Riedra/Jorasesh.md",
     "NPCs/Houses and Orgs/Unity of Riedra/Melkeshtak.md",
     "NPCs/Houses and Orgs/House Deneith/Verden d'Deneith.md",
@@ -164,7 +182,6 @@
     "Quest Log/Active/House ir'Moros' Next Top Model.md",
     "Quest Log/Active/House Orien's expedition into the Mournlands.md",
     "Quest Log/Active/Delivery of Cobin's letter to Maia-Zak Torrn d'Tharashk.md",
-    "Quest Log/Active/Protect Mistshroud and document her development.md",
     "Quest Log/Active/Q'barra Expedition for Daral ir'Tain.md",
     "Quest Log/Active/Return Arlo Jordan's inventions.md",
     "Quest Log/Active/Deliver Castar's package to Miro Duuma.md",
@@ -177,7 +194,6 @@
     "NPCs/PCs/Glendrim/Gremat, the 'Grubber'.md",
     "NPCs/Breland/Court",
     "NPCs/Houses and Orgs/House Medani/Felise Valorshall d'Medani.md",
-    "NPCs/Houses and Orgs/House Medani/Baron Trelib d'Medani.md",
     "NPCs/Q'barra",
     "Locations/Valenar",
     "Locations/Q'barra/New Galifar",
