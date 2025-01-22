@@ -1,1 +1,1 @@
-Alsi has asked Glendrim to aid her in the mysterious murder of Rand ir'Tain.
+[[NPCs/Houses and Orgs/House Medani/Alsi Valorshall d'Medani|Alsi]] has asked Glendrim to aid her in the mysterious murder of Rand ir'Tain.

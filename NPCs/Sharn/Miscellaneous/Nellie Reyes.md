@@ -1,0 +1,2 @@
+Driven out of Sharn due to unpaid debts to the Boromar Clan, Nellie sought safety in Droaam's border town Graywall. To make do, she turned to slavery.
+She was almost killed together with her compatriots by the troll-python abomination but was saved and apprehended by Glendrim's Guardians. Later in Wroat Glendrim decided to set Nellie free and take it upon him to settle her debt with the Boromar Clan.

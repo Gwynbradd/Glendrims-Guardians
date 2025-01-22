@@ -1,1 +1,1 @@
-Amber is committed to protecting her juvenile griffon and documenting how her behavior is developing.
+Amber is committed to protecting her juvenile griffon [[Mistshroud]] and documenting how her behavior is developing.

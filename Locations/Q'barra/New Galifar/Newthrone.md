@@ -1,1 +1,1 @@
-Ves's son, Sevrin, found Addport too exposed to siege and storm to become a proper trading hub. Thus he founded Newthrone as a bastion of Old Galifar. Attempting to replicate the grand and sweeping architecture of Cyre.
+Ves's son, Sevrin, found Adderport too exposed to siege and storm to become a proper trading hub. Thus he founded Newthrone as a bastion of Old Galifar. Attempting to replicate the grand and sweeping architecture of Cyre.

@@ -1,2 +1,2 @@
-Castar asked Glendrim to deliver the package to Miro Duuma to the Bloodtail Den in the Newthrone harbor district. 1,000 gp upfront and 1,000 gp on delivery.
+[[Castar]] asked Glendrim to deliver the package to Miro Duuma to the Bloodtail Den in the Newthrone harbor district. 1,000 gp upfront and 1,000 gp on delivery.
 The package contains nothing, but you mustn't peak.

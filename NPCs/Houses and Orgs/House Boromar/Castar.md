@@ -1,0 +1,1 @@
+Chief advisor and intelligence expert to [[Saidan Boromar]]
